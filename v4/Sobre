@@ -1,0 +1,1 @@
+Nessa abordagem foi utilizado o Swin Tiny, com cada época levando cerca de 3min. Foi possível atingir um F1-score no dataset de teste de 99.06%
